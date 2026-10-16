@@ -1,0 +1,6 @@
+{
+  "name": "데스크 레이서",
+  "description": "Three.js로 구현한, 책상 위 코스터(컵받침)를 활용한 타임 트라이얼 레이싱 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
